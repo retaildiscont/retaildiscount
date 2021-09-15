@@ -9,7 +9,7 @@ After clone the above code in local machine, Open Eclipse -> click on File -> im
 
 Then select pom.xml from the cloned project
 
-After load the project into eclipse,Right click on the retail project and Run the maven install then run maven clean to build the whole java code
+After load the project into eclipse,Right click on the retail project click Run AS ->  maven install then run maven clean to build the whole java code
 
 Goto TestDiscount.java and run the each test case by right click and run as Junit Test
 
